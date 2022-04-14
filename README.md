@@ -9,7 +9,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/its-me-ansif-sufi">Turbo-Jifi</a> to make it public
+Project created by <a href="https://github.com/its-me-ansif-sufi">Sufi-Ansif</a> to make it public
     <br>
        | © |
         Reserved |
