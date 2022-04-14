@@ -29,7 +29,7 @@
          "BROADCAST_NAME": {
             "description": "alexafor ordertext",
             "required": false,
-            "value": "ī.am/ꪶꜱᴜꜰɪꫂ⁩⁩⁩"
+            "value": "SUFI"
          },
          "BOT_NAME": {
             "description": "Bot Name For Menu",
